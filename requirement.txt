@@ -1,0 +1,11 @@
+# Core dependencies
+crewai>=0.28.0
+crewai_tools>=0.4.0
+langchain_community>=0.0.13
+reportlab>=4.0.4
+
+# Supporting libraries
+pillow>=9.0.0
+requests>=2.25.0
+ipython>=7.0.0
+jsonschema>=4.0.0 
