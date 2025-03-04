@@ -58,5 +58,7 @@ This notebook contains API credentials. Never share your notebook with credentia
 ## Contact
 For any questions or issues, please reach out to [Raviraj Gaikar](https://www.linkedin.com/in/raviraj-gaikar-05a986212/) or refer to the documentation within the notebook.
 
-Enjoy using the Linkedin Conetnt Automation Agent  Notebook!
+Link to [Colab Notebook](https://colab.research.google.com/drive/1T7CQxqFRP3XkBIaoZLsvXahDp1nrsUmT?usp=sharing)
+
+Enjoy using the Linkedin Content Automation Agent Notebook!
 
