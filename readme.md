@@ -3,6 +3,8 @@
 ## Overview
 LinkedIn Agent is an AI-powered automation tool built with CrewAI that leverages multiple agents to perform automated content creation. The system utilizes Google's Gemini 1.5 Pro model for natural language processing capabilities and includes features for web scraping, PDF report generation, and data analysis.
 
+![Workflow](Linkedin_Content_Automation_Agent_Visual.png)
+
 ## Features
 - Multi-agent collaboration using CrewAI framework
 - Web scraping capabilities for LinkedIn data collection
